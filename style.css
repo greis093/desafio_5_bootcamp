@@ -1,0 +1,60 @@
+body{
+  background-color: #faf4ea;
+  font-family: Verdana, Arial, sans-serif;
+}
+h1{
+  color: #6c3f26;
+}
+h2{
+  background-color: #614433;
+  font-size: 18px;
+  color: #faf4ea;
+}
+img{
+  width: 100%;
+}
+p{
+  color: #614433;
+  font-size: 15px;
+
+}
+li{
+  color: #614433;
+  font-size: 14px;
+}
+
+a{
+  color: #EF661C;
+  font-weight: bold;
+}
+
+
+footer{
+  text-align: center;
+  background-color: #111;
+  height: 100px;
+  line-height: 100px;
+  color: yellow;
+}
+
+/* clases */
+.menu {
+  font-size: 18px;
+  margin: 0px 0px 8px;
+}
+.negrita{
+  font-weight: bold;
+}
+
+.color_mostaza{
+  color: #ebb912;
+}
+
+.color_celeste{
+  color: #10abfe;
+}
+.color_rojo{
+  color:#ff4b3e;
+}
+
+
