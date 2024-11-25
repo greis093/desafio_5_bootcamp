@@ -1,6 +1,7 @@
 - Nombre: Yirley Greicy Agreda Pacheco
-- Link Github : https://desafio-5-bootcamp.netlify.app/
-- Link Netlify: git@github.com:greis093/desafio_5_bootcamp.git
+
+- Link Github : git@github.com:greis093/desafio_5_bootcamp.git
+- Link Netlify: https://desafio-5-bootcamp.netlify.app/
 
 ## Desafio N# 5
 
